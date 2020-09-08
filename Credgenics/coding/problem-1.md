@@ -1,4 +1,4 @@
-## Crydgenics - Problem 1
+## Credgenics - Problem 1
 #### Aman Kumar
 
 ### Problem Statement
